@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="pencil-module-test" verbose="1" >
+    <test name="pencil-module">
+        <classes>
+            <class name="com.pencil.tests.PencilTest"/>
+
+        </classes>
+    </test>
+</suite>
